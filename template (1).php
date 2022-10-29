@@ -10,6 +10,17 @@
 <!-- Chatbot Code /-->
 <script id='gs-sdk' src='//www.buildquickbots.com/botwidget/v3/demo/static/js/sdk.js?v=3' key='54397136-ee02-4d80-b0dc-9053c66cc80a' brand="giplearnfluencebot"></script>
 <!-- Hotjar Tracking Code for https://lakshyaca.com/ -->
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SHJHGRJ7T6"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-SHJHGRJ7T6');
+    </script>
+ <!-- End Google tag (gtag.js) -->
+
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -151,7 +162,6 @@ src="https://www.facebook.com/tr?id=273392187223466&ev=PageView&noscript=1"
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NX766VB"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
 
     <!-- End Google Tag Manager (noscript) -->
 
@@ -514,15 +524,7 @@ src="https://www.facebook.com/tr?id=273392187223466&ev=PageView&noscript=1"
 </script>
 <!--LeadSquared Tracking Code End-->
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C4FDJWZR66"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-C4FDJWZR66');
-</script>
 <!-- Global site tag (gtag.js) - Google Ads: 771126049 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-771126049"></script>
 <script>
