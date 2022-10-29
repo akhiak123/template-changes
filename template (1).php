@@ -6,6 +6,7 @@
 <meta property="og:title" content="Coaching Institute for CA-ACCA-CMA India-CMA Usa-CS | lakshya Campus"/>
 <meta property="og:description" content="Lakshya is a coaching centre for professional courses like ACCA,CA, CMA USA, CMA India, CS,"/>
 <!-- Fonawesome/-->
+<meta name="robots" content="index, follow">
 <script src="https://kit.fontawesome.com/8a1cf465a4.js" crossorigin="anonymous"></script>
 <!-- Chatbot Code /-->
 <script id='gs-sdk' src='//www.buildquickbots.com/botwidget/v3/demo/static/js/sdk.js?v=3' key='54397136-ee02-4d80-b0dc-9053c66cc80a' brand="giplearnfluencebot"></script>
